@@ -3,9 +3,9 @@
   array (
     'database_host' => '127.0.0.1',
     'database_port' => '',
-    'database_name' => 'solenga',
-    'database_user' => 'root',
-    'database_password' => '',
+    'database_name' => 'u259115469_solenga',
+    'database_user' => 'u259115469_solengaUser',
+    'database_password' => 'Phosphotech44*',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
