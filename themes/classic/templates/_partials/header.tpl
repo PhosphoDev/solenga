@@ -30,6 +30,7 @@
 
 {block name='header_nav'}
   <nav class="header-nav">
+  <h1>hello There</h1>
     <div class="container">
       <div class="row">
         <div class="hidden-sm-down">
@@ -71,7 +72,7 @@
         </div>
         <div class="header-top-right col-md-10 col-sm-12 position-static">
           {hook h='displayTop'}
-          <h1>hello There</h1>
+          
         </div>
       </div>
       <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
