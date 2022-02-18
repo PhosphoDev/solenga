@@ -30,7 +30,6 @@
 
 {block name='header_nav'}
   <nav class="header-nav">
-  <h1>hello There</h1>
     <div class="container">
       <div class="row">
         <div class="hidden-sm-down">

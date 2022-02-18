@@ -33,6 +33,8 @@
   <div class="container">
     <div class="row">
       {block name='hook_footer'}
+        <h1>hello There</h1>
+
         {hook h='displayFooter'}
       {/block}
     </div>
